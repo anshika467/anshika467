@@ -1,101 +1,103 @@
-<!-- Optimized Profile README for Anshika Saxena (anshika467) -->
-<!-- Paste into repo: anshika467/anshika467 -->
+<!-- README.md — Optimized, eye-catching, minimal-load profile for Anshika Saxena -->
+<!-- Paste this into the repo: `anshika467/anshika467` -->
 
 <p align="center">
-  <img width="80%" alt="typing" src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=1F2937&background=ffffff00&center=true&vCenter=true&lines=Hi,+I'm+Anshika+Saxena+%F0%9F%91%8B;Frontend+Developer+%E2%80%A2+AI+%26+ML+Enthusiast;I+build+fast+UIs+and+practical+ML+solutions" />
+  <!-- Animated headline (lightweight SVG service) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1200&color=1F2937&background=ffffff00&center=true&vCenter=true&lines=Hi,+I'm+Anshika+Saxena+👋;Frontend+Developer+•+AI+%26+ML+Enthusiast;I+build+fast+UIs+and+practical+ML+solutions" alt="typing" />
 </p>
 
 <p align="center">
+  <!-- Personal quick-contact badges -->
   <a href="mailto:developer.anshika467@gmail.com"><img alt="Email" src="https://img.shields.io/badge/✉️-developer.anshika467@gmail.com-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/anshika-saxena-14346a25a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anshika_Saxena-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/anshika-saxena-14346a25a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anshika_Saxena-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="https://leetcode.com/anshika467"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1548-orange?style=for-the-badge&logo=leetcode"></a>
   <a href="https://github.com/anshika467"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@anshika467-black?style=for-the-badge&logo=github"></a>
+  <a href="https://drive.google.com/file/d/1Y1BvWkOOsmJRS64WTidXbSKxUcIBLZQf/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=adobeacrobat"></a>
 </p>
 
 ---
 
-## ✨ One-line
-Frontend developer (B.Tech CSE — AI & ML). I build production-feel UIs and integrate practical ML (YOLO/TensorFlow) for real-world impact.
+# 👩‍💻 Quick snapshot
+**Anshika Saxena** — B.Tech (CSE: AI & ML). I build production-feel frontends and integrate practical ML backends (computer vision & deployable models). I focus on clarity, accessibility (WCAG-aware), and measurable impact.
 
 ---
 
-## 🔎 Highlights
-- 💼 Front-end intern — *Velocis Systems Pvt. Ltd.*  
-- 🚗 **Damage Vision AI** — vehicle damage detection (YOLOv8 + Flask). Precision ≈ **63%**, manual inspection time ↓ **70%**.  
-- 🛡️ **Nari Suraksha** — safety web app with Mapbox + Firebase + OpenAI integrations.  
-- 🧠 LeetCode: **1548** | 600+ problems solved.  
-- 🏅 Perfect **100/100** in Mathematics (High School).
+# 🔥 Highlights (impact-first)
+- Front-end Intern, **Velocis Systems Pvt. Ltd.** — contributed to the Railway Claims Tribunal portal; integrated **20+ REST endpoints**, built a global theme switcher aligned with WCAG 2.1. :contentReference[oaicite:1]{index=1}  
+- **Damage Vision AI** — Vehicle damage detection (YOLOv8 + Flask): **~63% precision**, reduced manual inspection time by **~70%**; real-time detection pipeline. :contentReference[oaicite:2]{index=2}  
+- **DevConnect** — Full-stack app (React + Redux + Express + MongoDB): **30+ REST endpoints**, JWT auth with role-based access. :contentReference[oaicite:3]{index=3}  
+- LeetCode: **1548** | **600+ problems solved**. :contentReference[oaicite:4]{index=4}
 
 ---
 
-## 🧰 Tech Snapshot
-| Frontend | Backend | ML / Infra | Tools |
-|---|---:|---:|---|
-| React · Redux · Tailwind · Chakra · Bootstrap | Node.js · Express · Flask · MongoDB · PostgreSQL | YOLOv8 · TensorFlow · OpenCV · PyTorch basics | Git · VSCode · Postman · Docker (basic) |
+# 🧭 What I build
+- Frontend UIs with React (clean components, a11y, performance)  
+- Deployable ML pipelines (YOLO/TensorFlow) with Flask/REST endpoints  
+- Full-stack MVPs that ship quickly and prove product/tech fit
 
 ---
 
-## 🚀 Selected Projects (click → open)
-- **[Damage Vision AI](https://github.com/anshika467/Major_Project_Final)** — *YOLOv8 + Flask*: damage detection + severity-based cost estimates. (Adding a short demo GIF in the repo README is highly recommended.)  
-- **[DevConnect](https://github.com/anshika467/DevConnect)** — full-stack social/professional app (React + Redux + Express + MongoDB). JWT auth, role-based flows.  
-- **[Nari Suraksha](https://github.com/anshika467/Code_Nari_Suraksha)** — safety app: nearest police/hospital, OpenAI-powered assistance.
+# 🧰 Tech Snapshot (concise)
+**Languages:** C++ · Python · JavaScript · Java · SQL  
+**Frontend:** React · Redux · Tailwind · Bootstrap · Chakra UI  
+**Backend / ML:** Node.js · Express · Flask · MongoDB · PostgreSQL · YOLOv8 · TensorFlow · OpenCV  
+**Tools:** Git · VSCode · Postman · Docker (basics)
+
+<!-- grouped badges (copy if needed) -->
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" alt="Flask"/>
+</p>
 
 ---
 
-## 📈 GitHub Snapshot (fast & reliable)
-<!-- Main stats + languages (kept as lightweight images) -->
+# 🚀 Selected projects & one-line impact
+> Click the title to open the repo; add demo GIFs (5s ≤ 300KB) in each repo for max effect.
+
+### 🔹 [Damage Vision AI](https://github.com/anshika467/Major_Project_Final)  
+YOLOv8 + Flask web app that detects vehicle damage, classifies severity and estimates repair cost — **~63% precision**, manual inspection time reduced by **~70%**. (Add a short demo GIF.) :contentReference[oaicite:5]{index=5}
+
+### 🔹 [DevConnect](https://github.com/anshika467/DevConnect)  
+Full-stack networking app (React + Redux + Express + MongoDB). 30+ endpoints, JWT auth, role-based access and production-ready flows. :contentReference[oaicite:6]{index=6}
+
+### 🔹 [Nari Suraksha](https://github.com/anshika467/Code_Nari_Suraksha)  
+Safety app using Mapbox + Firebase + OpenAI; finds nearest hospitals/police and returns ranked probable diagnoses (~5s avg response). :contentReference[oaicite:7]{index=7}
+
+> Want me to auto-add demo GIF placeholders into these repos? I can give exact steps.
+
+---
+
+# 📈 GitHub overview (fast + minimal)
+<!-- Keep widgets minimal: one main stats + top-langs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshika467&show_icons=true&theme=radical&hide_border=true&count_private=false" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshika467&show_icons=true&theme=gruvbox&hide_border=true&count_private=false" alt="github-stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika467&layout=compact&theme=gruvbox&hide_border=true" alt="top-langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika467&layout=compact&hide_border=true&theme=radical" alt="top-langs" />
-</p>
+---
 
-> Tip: Keep only one main stats widget on the profile README to ensure quick loading. Add lightweight GIFs and live demo links inside each project repo instead of loading many widgets here.
+# 🎯 Resume & credentials
+- B.Tech — CSE (AI & ML) — KIET (current). :contentReference[oaicite:8]{index=8}  
+- Front-end Intern at Velocis Systems (Railway Claims Tribunal portal work; accessibility focus). :contentReference[oaicite:9]{index=9}  
+- Achievements: INNOTECH 1st place, perfect 100/100 in High School Mathematics. :contentReference[oaicite:10]{index=10}
 
 ---
 
-## 📚 Education & Experience
-<details>
-<summary><strong>Education</strong></summary>
-
-- B.Tech — CSE (AI & ML) — ongoing  
-- 100/100 in Mathematics, High School
-</details>
-
-<details>
-<summary><strong>Experience</strong></summary>
-
-- Front-end Intern, Velocis Systems Pvt. Ltd. — worked on production frontends and feature delivery.
-</details>
+# 💡 Quick optimization notes (why this is fast & persuasive)
+1. **Single main stats card** keeps the profile fast to render on first load.  
+2. **Short, quantified bullets** show impact quickly — recruiters skim. (Numbers are pulled from your resume.) :contentReference[oaicite:11]{index=11}  
+3. **Small demo GIFs (optional)** inside project READMEs give the highest conversion (interviews). Keep them <300KB.  
+4. **Modular sections** — add or hide project case studies without reworking the hero.
 
 ---
 
-## 🔧 High-impact polish tips
-1. Add short GIF demos (5–8s, ≤300KB) for flagship projects — instant "wow".  
-2. Add live demo links (Vercel/Netlify) inside repo READMEs.  
-3. For each repo add a 1-page case study: problem → solution → tech → impact (metrics). Recruiters scan for metrics.  
-4. Keep external widgets minimal on the profile README to avoid slow loads.
-
----
-
-## 🌱 Currently Learning
-- Advanced React patterns & Redux Toolkit Query  
-- Productionizing ML models (deploying YOLO/TensorFlow reliably)  
-- System design basics for scalable web apps
-
----
-
-## 📫 Contact
+# 📫 Contact
 - Email: developer.anshika467@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/anshika-saxena-14346a25a/  
 - Resume (PDF): https://drive.google.com/file/d/1Y1BvWkOOsmJRS64WTidXbSKxUcIBLZQf/view?usp=sharing
 
 ---
-
-_Last updated: {{LAST_UPDATED}}_
-
-<p align="center">
-  <em>If you like my work — let's connect. I build, test, and ship fast MVPs with clean UI and real-world impact.</em>
-</p>
