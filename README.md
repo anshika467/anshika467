@@ -74,7 +74,7 @@
 - 🥇 **1st Place** in **INNOTECH 2023** (Innovative Education & Skill Development).
 - 🎯 Solved **600+ problems** on **LeetCode** with a peak rating of **1548**.
 - 📈 **AI SUMMIT 2025 Event Coordinator** (15+ industry talks, 500+ participants, 1.15B media reach).
-- 💯 Awarded **100/100 in Mathematics** (analytical excellence)
+- 💯 Awarded **100/100 in Mathematics** in high school (analytical excellence)
 
 ---
 
