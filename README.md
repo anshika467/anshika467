@@ -1,103 +1,98 @@
-<!-- README.md — Optimized, eye-catching, minimal-load profile for Anshika Saxena -->
-<!-- Paste this into the repo: `anshika467/anshika467` -->
+<h1 align="center">Hi there, I'm Anshika Saxena 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | 💻 Competetive Programmer | 🤖 AI & ML Enthusiast</h3>
 
 <p align="center">
-  <!-- Animated headline (lightweight SVG service) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1200&color=1F2937&background=ffffff00&center=true&vCenter=true&lines=Hi,+I'm+Anshika+Saxena+👋;Frontend+Developer+•+AI+%26+ML+Enthusiast;I+build+fast+UIs+and+practical+ML+solutions" alt="typing" />
+  <img src="https://komarev.com/ghpvc/?username=anshika467&label=Profile%20views&color=0e75b6&style=flat" alt="anshika467" /> 
+  <a href="https://www.linkedin.com/in/anshika-saxena-14346a25a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+  <a href="https://leetcode.com/anshika467/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
 </p>
+
+---
+
+## 🚀 About Me
+- 🎓 **B.Tech in CSE (AI & ML)** @ KIET Group of Institutions (CGPA: 8.5)
+- 🏆 Solved **600+ problems** on **LeetCode** (Rating 1548)
+- 💼 **Java Developer Intern @ MNRE (Ministry of New & Renewable Energy)** – Worked on REE-IMS portal, API integrations & compliance automation. 
+- 💼 **Ex-Frontend Developer Intern @ Velocis Systems Pvt. Ltd.** – Contributed to Railway Claims Tribunal portal for Govt. of India.  
+- 🔭 Currently working on **DevConnect** (Full-stack developer community platform).
+- 💡 Passionate about **Front-End Development, AI/ML, and Scalable Web Apps**.
+- 🌱 Currently learning **Spring Boot & Advanced Redux Toolkit**.
+- 🖥️ **MERN Stack Developer** – Experienced in building full-stack applications using MongoDB, Express.js, React, and Node.js.
+
+---
+
+## 🛠️ My Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**DevConnect**](https://github.com/anshika467/DevConnect) | A full-stack platform for developers with JWT-based authentication, user profiles, posts, and connections, featuring over 15 RESTful endpoints.  | React, Redux, Node.js, Express.js, MongoDB |
+| [**Railway Claims Tribunal (RCT) Portal**](https://github.com/anshika467/Project_RCT_V3) | Government of India portal developed during my internship at Velocis Systems. Built reusable React components, integrated APIs, and optimized UI performance. | React, Bootstrap, Redux, Axios |
+| [**Damage Vision AI**](https://github.com/anshika467/Major_Project_Final) | An AI web app using YOLOv8 to detect vehicle damage from images, estimate repair costs, and reduce manual inspection time by 70%.   | YOLOv8, Flask, TensorFlow, Python, JS |
+| [**Nari Suraksha**](https://github.com/anshika467/Nari_Suraksha) | A women's safety application that finds nearby emergency services using the Mapbox API and provides AI-powered medical diagnoses via OpenAI API. | React, Bootstrap, Firebase, Mapbox API |
+| [**REE-IMS Certificate Module**](https://github.com/anshika467/REE_IMS-backend) | Certificate Module in REE-IMS enabling automated issuance & compliance for renewable energy manufacturers. | Spring Boot, React, jQuery, PostgreSQL |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** in **INNOTECH 2023** (Innovative Education & Skill Development).
+- 🎯 Solved **600+ problems** on **LeetCode** with a peak rating of **1548**.
+- 📈 **AI SUMMIT 2025 Event Coordinator** (15+ industry talks, 500+ participants, 1.15B media reach).
+- 💯 Awarded **100/100 in Mathematics** (analytical excellence)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Personal quick-contact badges -->
-  <a href="mailto:developer.anshika467@gmail.com"><img alt="Email" src="https://img.shields.io/badge/✉️-developer.anshika467@gmail.com-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/anshika-saxena-14346a25a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anshika_Saxena-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://leetcode.com/anshika467"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1548-orange?style=for-the-badge&logo=leetcode"></a>
-  <a href="https://github.com/anshika467"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@anshika467-black?style=for-the-badge&logo=github"></a>
-  <a href="https://drive.google.com/file/d/1Y1BvWkOOsmJRS64WTidXbSKxUcIBLZQf/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=adobeacrobat"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika467&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshika467&show_icons=true&theme=tokyonight" alt="anshika467's GitHub stats" />
+  <br/>
 </p>
 
 ---
 
-# 👩‍💻 Quick snapshot
-**Anshika Saxena** — B.Tech (CSE: AI & ML). I build production-feel frontends and integrate practical ML backends (computer vision & deployable models). I focus on clarity, accessibility (WCAG-aware), and measurable impact.
+## 📫 Let's Connect!
 
----
-
-# 🔥 Highlights (impact-first)
-- Front-end Intern, **Velocis Systems Pvt. Ltd.** — contributed to the Railway Claims Tribunal portal; integrated **20+ REST endpoints**, built a global theme switcher aligned with WCAG 2.1. :contentReference[oaicite:1]{index=1}  
-- **Damage Vision AI** — Vehicle damage detection (YOLOv8 + Flask): **~63% precision**, reduced manual inspection time by **~70%**; real-time detection pipeline. :contentReference[oaicite:2]{index=2}  
-- **DevConnect** — Full-stack app (React + Redux + Express + MongoDB): **30+ REST endpoints**, JWT auth with role-based access. :contentReference[oaicite:3]{index=3}  
-- LeetCode: **1548** | **600+ problems solved**. :contentReference[oaicite:4]{index=4}
-
----
-
-# 🧭 What I build
-- Frontend UIs with React (clean components, a11y, performance)  
-- Deployable ML pipelines (YOLO/TensorFlow) with Flask/REST endpoints  
-- Full-stack MVPs that ship quickly and prove product/tech fit
-
----
-
-# 🧰 Tech Snapshot (concise)
-**Languages:** C++ · Python · JavaScript · Java · SQL  
-**Frontend:** React · Redux · Tailwind · Bootstrap · Chakra UI  
-**Backend / ML:** Node.js · Express · Flask · MongoDB · PostgreSQL · YOLOv8 · TensorFlow · OpenCV  
-**Tools:** Git · VSCode · Postman · Docker (basics)
-
-<!-- grouped badges (copy if needed) -->
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" alt="Flask"/>
-</p>
-
----
-
-# 🚀 Selected projects & one-line impact
-> Click the title to open the repo; add demo GIFs (5s ≤ 300KB) in each repo for max effect.
-
-### 🔹 [Damage Vision AI](https://github.com/anshika467/Major_Project_Final)  
-YOLOv8 + Flask web app that detects vehicle damage, classifies severity and estimates repair cost — **~63% precision**, manual inspection time reduced by **~70%**. (Add a short demo GIF.) :contentReference[oaicite:5]{index=5}
-
-### 🔹 [DevConnect](https://github.com/anshika467/DevConnect)  
-Full-stack networking app (React + Redux + Express + MongoDB). 30+ endpoints, JWT auth, role-based access and production-ready flows. :contentReference[oaicite:6]{index=6}
-
-### 🔹 [Nari Suraksha](https://github.com/anshika467/Code_Nari_Suraksha)  
-Safety app using Mapbox + Firebase + OpenAI; finds nearest hospitals/police and returns ranked probable diagnoses (~5s avg response). :contentReference[oaicite:7]{index=7}
-
-> Want me to auto-add demo GIF placeholders into these repos? I can give exact steps.
-
----
-
-# 📈 GitHub overview (fast + minimal)
-<!-- Keep widgets minimal: one main stats + top-langs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshika467&show_icons=true&theme=gruvbox&hide_border=true&count_private=false" alt="github-stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika467&layout=compact&theme=gruvbox&hide_border=true" alt="top-langs" />
+  <a href="https://www.linkedin.com/in/anshika-saxena-14346a25a/"><img src="https://img.shields.io/badge/-Anshika%20Saxena-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:devcoder.anshika467@gmail.com"><img src="https://img.shields.io/badge/-devcoder.anshika467@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/anshika467/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://github.com/anshika467"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
-
----
-
-# 🎯 Resume & credentials
-- B.Tech — CSE (AI & ML) — KIET (current). :contentReference[oaicite:8]{index=8}  
-- Front-end Intern at Velocis Systems (Railway Claims Tribunal portal work; accessibility focus). :contentReference[oaicite:9]{index=9}  
-- Achievements: INNOTECH 1st place, perfect 100/100 in High School Mathematics. :contentReference[oaicite:10]{index=10}
-
----
-
-# 💡 Quick optimization notes (why this is fast & persuasive)
-1. **Single main stats card** keeps the profile fast to render on first load.  
-2. **Short, quantified bullets** show impact quickly — recruiters skim. (Numbers are pulled from your resume.) :contentReference[oaicite:11]{index=11}  
-3. **Small demo GIFs (optional)** inside project READMEs give the highest conversion (interviews). Keep them <300KB.  
-4. **Modular sections** — add or hide project case studies without reworking the hero.
-
----
-
-# 📫 Contact
-- Email: developer.anshika467@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/anshika-saxena-14346a25a/  
-- Resume (PDF): https://drive.google.com/file/d/1Y1BvWkOOsmJRS64WTidXbSKxUcIBLZQf/view?usp=sharing
-
----
