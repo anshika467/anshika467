@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech in CSE (AI & ML)** @ KIET Group of Institutions (CGPA: 8.5)
-- 🏆 Solved **600+ problems** on **LeetCode** (Rating 1548)
+- 🏆 Solved **650+ problems** on **LeetCode** (Rating 1548)
 - 💼 **Java Developer Intern @ MNRE (Ministry of New & Renewable Energy)** – Worked on REE-IMS portal, API integrations & compliance automation. 
 - 💼 **Ex-Frontend Developer Intern @ Velocis Systems Pvt. Ltd.** – Contributed to Railway Claims Tribunal portal for Govt. of India.  
 - 🔭 Currently working on **DevConnect** (Full-stack developer community platform).
@@ -72,7 +72,7 @@
 ## 🏆 Achievements
 
 - 🥇 **1st Place** in **INNOTECH 2023** (Innovative Education & Skill Development).
-- 🎯 Solved **600+ problems** on **LeetCode** with a peak rating of **1548**.
+- 🎯 Solved **650+ problems** on **LeetCode** with a peak rating of **1548**.
 - 📈 **AI SUMMIT 2025 Event Coordinator** (15+ industry talks, 500+ participants, 1.15B media reach).
 - 💯 Awarded **100/100 in Mathematics** in high school (analytical excellence)
 
